@@ -1,0 +1,4 @@
+﻿  Module2.7.cpp
+C:\Users\ADMIN\Desktop\Работа в универе\Курс\Module2.7\Module2.7\Module2.7.cpp(53,13): warning C4566: символ, представленный универсальным именем символа "\u2216", невозможно представить в текущей кодовой странице (1251)
+C:\Users\ADMIN\Desktop\Работа в универе\Курс\Module2.7\Module2.7\Module2.7.cpp(29,27): warning C4101: d: неиспользованная локальная переменная
+  Module2.7.vcxproj -> C:\Users\ADMIN\Desktop\Работа в универе\Курс\Module2.7\Debug\Module2.7.exe
